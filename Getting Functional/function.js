@@ -38,7 +38,7 @@ function bark(name, weight) {
     }
 }
 
-// bark(prompt("Enter dogname"), prompt("Enter dog weight"));
+// bark(prompt("Enter dog name"), prompt("Enter dog weight"));
 
 bark("ice", 10);
 bark("kopiko", 23);
